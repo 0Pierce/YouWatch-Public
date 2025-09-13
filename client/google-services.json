@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344691454912",
+    "firebase_url": "https://youwatchdb-default-rtdb.firebaseio.com",
+    "project_id": "youwatchdb",
+    "storage_bucket": "youwatchdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344691454912:android:369e493ffb8e9d381d0e25",
+        "android_client_info": {
+          "package_name": "com.pierce.youwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344691454912-45f3te8ssgvmsoob4n22ecjnqeud06c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pierce.youwatch",
+            "certificate_hash": "ccb6051a756b9b5e7e85c7208ed2985d36d01baf"
+          }
+        },
+        {
+          "client_id": "344691454912-clgpq69vsgffsanlrt8u3imn724k50mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7VdEyxZPiRRwHSYEb_51ScrhHIqqHlTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344691454912-clgpq69vsgffsanlrt8u3imn724k50mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344691454912-55r9vrkcdf4u39ujkjs693k5gc7fcjh3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pierce.youwatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

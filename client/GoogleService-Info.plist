@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344691454912-55r9vrkcdf4u39ujkjs693k5gc7fcjh3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344691454912-55r9vrkcdf4u39ujkjs693k5gc7fcjh3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>344691454912-45f3te8ssgvmsoob4n22ecjnqeud06c4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrnf3qFY-zxK3NebxfIruIfrRh4f6gbkM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344691454912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pierce.youwatch</string>
+	<key>PROJECT_ID</key>
+	<string>youwatchdb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>youwatchdb.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344691454912:ios:82c932c6c3e63cc71d0e25</string>
+	<key>DATABASE_URL</key>
+	<string>https://youwatchdb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

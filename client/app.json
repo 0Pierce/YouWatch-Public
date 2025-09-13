@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "YouWatch",
+    "slug": "youwatch",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/images/youWatchLogo.png",
+    "scheme": "youwatch",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/youWatchLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pierce.youwatch",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/youwatchLogoScaled22.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pierce.youwatch",
+      "versionCode":3,
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/youWatchLogoScaled.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-web-browser",
+      "expo-font",
+      "@react-native-google-signin/google-signin"
+    ],
+    
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "googleClientId": "344691454912-clgpq69vsgffsanlrt8u3imn724k50mc.apps.googleusercontent.com",
+      "router": {},
+      "eas": {
+        "projectId": "96c2a3f6-beca-4e8b-abee-0492ffdf86eb"
+      }
+    }
+  }
+}
