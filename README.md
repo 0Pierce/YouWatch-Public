@@ -1,9 +1,10 @@
 
 <div width="100%" align="center">
   <hr>  <img width="126" height="126" alt="youwatchLogoScaled22Trans" src="https://github.com/user-attachments/assets/3adea873-fe98-40c9-99e9-e60155ca1270" /></hr>
+    <h3>YouWatch</h3>
   <hr></hr>
 
-  
+
   
 </div>
 
