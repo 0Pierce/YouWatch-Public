@@ -15,7 +15,7 @@
 This is the public repository for the YouWatch mobile app, currently published on the Android Play Store. It contains the whole application minus any sensitive information, or my sometimes frustrated commit titles 😅.
 I'll periodically be updating it as development on YouWatch continues. 
 
-One of the primary reasons I've made this project public is to allow its use for IOS. It is designed with IOS in mind, and while I do not believe it is worth the substantial work to publish it on the App Store
+One of the primary reasons I've made this project public is to allow its use for IOS. It is designed with IOS in mind, but I do not believe it is worth the substantial work to publish it on the App Store due to their strict regulations and high fees
 
 
 
